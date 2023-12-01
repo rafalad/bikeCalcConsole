@@ -8,7 +8,7 @@ namespace bikeCalcConsole
 {
     public class CalculatePower
     {
-        public static string Power()
+        public static void Power()
         {
             Console.WriteLine("Hill Climb Power Calculator");
 
